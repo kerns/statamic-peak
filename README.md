@@ -57,7 +57,7 @@ Before using Peak make sure you're familiar with:
 * Statamic 
 * Antlers
 * TailwindCSS
-* *And to lesser extend:* AlpineJS (JS framework)
+* *And to a lesser extent:* AlpineJS (JS framework)
 
 ## Installation
 <span id="installation"></span>
